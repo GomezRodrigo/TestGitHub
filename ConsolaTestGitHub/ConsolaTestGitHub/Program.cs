@@ -19,7 +19,9 @@ namespace ConsolaTestGitHub
             Console.WriteLine("Probando proyecto en comun. Esto es clonar un repositorio online");
             Console.ReadLine();
             Console.WriteLine("HOLA PROFE LE PUEDO ROMPER EL PROYECTO?");
-                Console.ReadLine();
+            Console.ReadLine();
+            Console.WriteLine("HOLA ADAM!");
+            Console.ReadLine();
         }
     }
 }
