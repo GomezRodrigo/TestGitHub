@@ -4,3 +4,6 @@ D:\Documents\Projects\GitDefaultRepository\TestGitHub\ConsolaTestGitHub\ConsolaT
 D:\Documents\Projects\GitDefaultRepository\TestGitHub\ConsolaTestGitHub\ConsolaTestGitHub\obj\Debug\ConsolaTestGitHub.csprojResolveAssemblyReference.cache
 D:\Documents\Projects\GitDefaultRepository\TestGitHub\ConsolaTestGitHub\ConsolaTestGitHub\obj\Debug\ConsolaTestGitHub.exe
 D:\Documents\Projects\GitDefaultRepository\TestGitHub\ConsolaTestGitHub\ConsolaTestGitHub\obj\Debug\ConsolaTestGitHub.pdb
+C:\Users\guest\Desktop\TestGitHub\ConsolaTestGitHub\ConsolaTestGitHub\bin\Debug\ConsolaTestGitHub.exe.config
+C:\Users\guest\Desktop\TestGitHub\ConsolaTestGitHub\ConsolaTestGitHub\obj\Debug\ConsolaTestGitHub.exe
+C:\Users\guest\Desktop\TestGitHub\ConsolaTestGitHub\ConsolaTestGitHub\obj\Debug\ConsolaTestGitHub.pdb
